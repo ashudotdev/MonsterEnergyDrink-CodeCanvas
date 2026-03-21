@@ -64,8 +64,6 @@ Monster/
 │   ├── responsive.css              # Media queries for responsive design
 │   │
 │   ├── components/
-│   │   ├── cart.css                # Shopping cart styling
-│   │   ├── modals.css              # Modal dialog styling
 │   │   └── toast.css               # Toast notification styling
 │   │
 │   └── sections/
@@ -124,7 +122,7 @@ Resource elements were designed using Blender for optimal visual quality. These 
 1. Extract or clone the project files
 2. Open `index.html` in a modern web browser
 3. Explore the site's interactive features by scrolling and clicking
-4. Try the Can Catcher game in the designated section
+4. Try the Monster Catcher game in the designated section
 5. Switch between flavours to see the dynamic theme changes
 
 ---
