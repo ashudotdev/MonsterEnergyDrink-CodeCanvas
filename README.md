@@ -20,6 +20,16 @@ The site is designed to feel "alive" using GSAP ScrollTrigger to handle the scro
 
 ---
 
+## Screenshorts
+
+![Home](screenshorts/1.png)
+![Flavours](screenshorts/2.png)
+![Events](screenshorts/3.png)
+![News](screenshorts/4.png)
+![Game](screenshorts/5.png)
+
+---
+
 ## Design Philosophy
 
 This project keeps the fundamentals simple but powerful: HTML, CSS, and Vanilla JavaScript without heavy frameworks or complex build steps. Resource elements for some components were designed and optimized using Blender, providing high-quality 3D elements that enhance the visual experience.
