@@ -1,6 +1,6 @@
 # Monster Energy Experience
 
-**Live Demo: [monster.dinomae.in](https://monster.dinomae.in/)**
+**Live Demo: [monster.dinomae.in](https://monster.ashu.fun/)**
 
 This is a passion project built to experiment with immersive web experiences. It's a high-energy, single-page site for Monster Energy that leans heavily into glassmorphism, GSAP animations, and interactive mini-games. The goal was to create a site that feels as "monstrous" as the brand itself—fast, dark, and visually intense.
 
